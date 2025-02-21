@@ -89,7 +89,3 @@ JWT_SECRET_KEY=12afe3914c6815b4e9043bab8aba0b1539f22e5fdccf711c0744fff1e081def8
 ```
 
 Certifique-se de criar o arquivo `.env` na raiz do projeto e preencher os valores conforme necessário antes de rodar a aplicação.
-
-## Licença
-Este projeto está sob a licença MIT.
-
